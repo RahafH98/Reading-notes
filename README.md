@@ -23,5 +23,5 @@ This website helps keeping track of :
 
 | Mind Growth| Mind Growth refers to the process of developing a growth mindset, which helps in controlling ideas, developing skills, and improving various aspects of life, including time management, problem-solving, and communication skills. This growth mindset is essential for focusing on continuous improvement in coding and striving to become a better developer. |
 
-
+| DSA        | The selection of a Data Structures and Algorithms (DSA) algorithm should consider its time complexity, ensuring the problem is solved with minimum time and operations. For example, **arrays** are fast for accessing elements using indices but slow for adding or deleting elements. **Linked lists (LL)** are fast at insertion and deletion but slower at extracting an element by index. Considering the complexity of operations aids in choosing the most suitable algorithm for a given problem. To avoid infinite recursion, a **Base Case** is necessary, stopping the recursion and ensuring the problem progresses towards the base case in each recursive call. |
 
