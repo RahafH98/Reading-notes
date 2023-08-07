@@ -25,3 +25,9 @@ This website helps keeping track of :
 
 | DSA        | The selection of a Data Structures and Algorithms (DSA) algorithm should consider its time complexity, ensuring the problem is solved with minimum time and operations. For example, **arrays** are fast for accessing elements using indices but slow for adding or deleting elements. **Linked lists (LL)** are fast at insertion and deletion but slower at extracting an element by index. Considering the complexity of operations aids in choosing the most suitable algorithm for a given problem. To avoid infinite recursion, a **Base Case** is necessary, stopping the recursion and ensuring the problem progresses towards the base case in each recursive call. |
 
+| Reading Enginnering     | addressing this topic is all what our major is evolving around evantually we are studying to solve problems via tachs and to develop applications and website that makes he world a lot easier for others so this topic strongly relates to our studying meatriels to know how to develop the problem solving skill and how to improve other related skills and give a hint about how to act when there's a problem a head of you  |
+
+
+
+## Things I want to know about 
+
