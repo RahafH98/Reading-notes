@@ -26,10 +26,10 @@ here starts the fun journey of learning java and working with it and adding to t
 
 | Reading Title                    | Link                                   |
 |----------------------------------|----------------------------------------|
-| SQL                              | [Link to  readme SQL](readme1.md)                        |
-| Terminal                         | [link to readme Terminal(readme2.md)](#)                         |
-| Growth mindset                   | [link to readme Growth-Mindset](readme3.md)(#)                         |
-| Engineering readings             | [Read here](#)                         |
+| SQL                              | [Link to  SQL](readme1.md)                        |
+| Terminal                         | [link to Terminal(readme2.md)](#)                         |
+| Growth mindset                   | [link to  Growth-Mindset](readme3.md)                        |
+| Engineering readings             | [link to Engineering-readinds](readme4.md)                         |
 | Reading 01                       | [Read here](#)                         |
 |Reading 02                        | [Read here](#)                         |
 |Reading 03                        | [Read here](#)                         |
