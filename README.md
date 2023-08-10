@@ -33,3 +33,4 @@ here starts the fun journey of learning java and working with it and adding to t
 | Reading 01                       | [link to Reading01](readme5.md)                         |
 |Reading 02                        | [link to Reading 02](readme6.md)                         |
 |Reading 03                        | [link to reading03](readme7.md)                         |
+|Reading 04                      | [link to reading04](readme8.md)                         |
