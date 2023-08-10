@@ -31,5 +31,5 @@ here starts the fun journey of learning java and working with it and adding to t
 | Growth mindset                   | [link to  Growth-Mindset](readme3.md)                        |
 | Engineering readings             | [link to Engineering-readinds](readme4.md)                         |
 | Reading 01                       | [link to Reading01](readme5.md)                         |
-|Reading 02                        | [Read here](#)                         |
-|Reading 03                        | [Read here](#)                         |
+|Reading 02                        | [link to Reading 02](readme6.md)                         |
+|Reading 03                        | [link to reading03](readme7.md)                         |
