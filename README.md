@@ -26,8 +26,8 @@ here starts the fun journey of learning java and working with it and adding to t
 
 | Reading Title                    | Link                                   |
 |----------------------------------|----------------------------------------|
-| SQL                              | [Read here](#)                         |
-| Terminal                         | [Read here](#)                         |
+| SQL                              | [[link to readme SQL](readme1.md](#)                         |
+| Terminal                         | [link to readme Terminal(readme2.md)](#)                         |
 | Growth mindset                   | [Read here](#)                         |
 | Engineering readings             | [Read here](#)                         |
 | Reading 01                       | [Read here](#)                         |
